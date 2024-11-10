@@ -1,0 +1,1 @@
+savedcmd_/home/pi/programing/dht11/dht11_driver.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/pi/programing/dht11/dht11_driver.ko /home/pi/programing/dht11/dht11_driver.o /home/pi/programing/dht11/dht11_driver.mod.o;  true
